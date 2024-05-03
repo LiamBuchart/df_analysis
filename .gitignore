@@ -1,0 +1,4 @@
+# files to ignore
+*.sif  # the apptainer build
+*.log  # the log file
+*swp  # any swap files that are created
